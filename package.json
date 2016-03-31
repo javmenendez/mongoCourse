@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "command-line-args": "^2.1.6",
     "mongodb": "^2.1.13"
   }
 }
