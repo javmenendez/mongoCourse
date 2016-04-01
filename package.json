@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "command-line-args": "^2.1.6",
-    "mongodb": "^2.1.13"
+    "dotenv": "^2.0.0",
+    "mongodb": "^2.1.13",
+    "twitter": "^1.2.5"
   }
 }
